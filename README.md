@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi%2C%20I%27m%20Surbhi%20🚀&animation=fadeIn&type=waving&color=gradient&height=120" alt="banner"/>
+</p>
+
+<h1 align="center">👩‍💻 Surbhi Kumari</h1>
+<p align="center">Backend Developer | JS • Node.js • Express • MongoDB</p>
+
+---
+
+## 🏷️ About Me
+
+```yaml
+Name: Surbhi Kumari
+Role: Aspiring Backend Developer
+Current Location: Kolkata, West Bengal, India
+Current Role: Process Associate
+Transitioning to: IT Backend Development
